@@ -1,0 +1,6 @@
+http://www.codeproject.com/Tips/1074608/CRUD-in-ASP-NET-MVC-using-WebAPI-with-AngularJS
+https://www.codeproject.com/Articles/1158439/Crud-Operation-using-Angular-JS-and-Web-API
+http://www.c-sharpcorner.com/article/crud-using-mvc-web-api-and-angularjs/
+http://www.dotnetcurry.com/aspnet/1049/crud-database-aspnet-webapi-angularjs
+http://www.c-sharpcorner.com/UploadFile/asmabegam/mvc-angularjs-masterdetail-crud-filter-and-sorting-using-w/
+https://www.codeproject.com/Articles/1096035/CRUD-Paging-Sorting-Searching-with-AngularJS-in-MV
